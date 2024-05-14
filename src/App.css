@@ -1,0 +1,54 @@
+.container {
+  background-color: black;
+  height: 19cm;
+  width: 21cm;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 7px;
+  color: aliceblue;
+}
+
+.box-container {
+  background-color: gray;
+  height: 5cm;
+  width: 60%;
+  border-radius: 5px;
+
+
+}
+
+.passwordText {
+  margin-top: 25px;
+  width: 80%;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.button {
+  margin-right: 16px;
+  height: 45px;
+  width: 10%;
+  font-size: 20px;
+  background-color: rgb(83, 123, 233);
+  color: black;
+}
+
+.pass-range {
+  display: inline;
+  width: 120px;
+  margin-top: 30px;
+  margin-left: 20px;
+  float: left;
+}
+
+.lables {
+  float: left;
+  margin-top: 17.5px;
+  margin-left: 10px;
+  margin-bottom: 100px;
+  font-size: 25px;
+  color: rgb(156, 64, 7);
+
+}
